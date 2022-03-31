@@ -1,7 +1,9 @@
 # ic-unity-template
  A Unity template for the Internet Computer blockchain with wallet integration and NFT fetching.
+ 
+ View demo here: https://ti5gm-bqaaa-aaaai-ab7oa-cai.raw.ic0.app/
 
-Steps to Deploy the IC Unity Project:
+Follow these steps to deploy it to the IC yourself:
 1. Download the project files
 2. Make sure you have the Dfinity Canister smart contract SDK installed (I'm using version 0.9.3 for this project): https://smartcontracts.org/docs/developers-guide/install-upgrade-remove.html
 3. cd into the ic_unity_template folder within the Unity project (this contains the dfx project).
